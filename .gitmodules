@@ -1,0 +1,3 @@
+[submodule "app"]
+	path = app
+	url = https://github.com/406pck1-glitch/my-library.git
